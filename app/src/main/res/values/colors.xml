@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Light Theme Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="text_primary_light">#DE000000</color>
+    <color name="text_secondary_light">#99000000</color>
+    <color name="card_background_light">#FFFFFF</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="background_dark">#121212</color>
+    <color name="text_primary_dark">#DEFFFFFF</color>
+    <color name="text_secondary_dark">#99FFFFFF</color>
+    <color name="card_background_dark">#272727</color>
+
+    <!-- Weather Status Colors -->
+    <color name="sunny">#FFB300</color>
+    <color name="cloudy">#78909C</color>
+    <color name="rainy">#42A5F5</color>
+    <color name="snowy">#90CAF9</color>
+    <color name="stormy">#5C6BC0</color>
+</resources>

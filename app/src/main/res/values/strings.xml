@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="search_hint">Поиск города</string>
+    <string name="temperature_format">%d°C</string>
+    <string name="humidity_format">Влажность: %d%%</string>
+    <string name="wind_format">Ветер: %d м/с</string>
+    <string name="notification_channel_name">Прогноз погоды</string>
+    <string name="notification_channel_description">Уведомления о погодных условиях</string>
+    <string name="error_city_not_found">Город не найден</string>
+    <string name="error_network">Ошибка сети</string>
+</resources>
